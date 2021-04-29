@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <line style="paint-order: stroke; stroke-linecap: square; stroke-width: 32px; stroke: rgb(255, 255, 255);" x1="441.847" y1="230.677" x2="211.367" y2="200.917" transform="matrix(0.989463, 0.144789, -0.144789, 0.989463, 34.809689, -45.039715)" bx:origin="0.501 0.528"/>
+  <line style="paint-order: stroke; stroke-linecap: square; stroke-width: 32px; stroke: rgb(255, 255, 255);" x1="282.712" y1="313.62" x2="61.176" y2="251.046"/>
+  <line style="paint-order: stroke; stroke-linecap: square; stroke-width: 32px; stroke: rgb(255, 255, 255);" x1="227.78" y1="44.281" x2="22.469" y2="252.043"/>
+  <line style="paint-order: stroke; stroke-linecap: square; stroke-width: 32px; stroke: rgb(255, 255, 255);" x1="250.173" y1="477.576" x2="45.029" y2="274.241"/>
+  <line style="paint-order: stroke; stroke-linecap: square; stroke-width: 32px; stroke: rgb(255, 255, 255));" x1="455.365" y1="225.22" x2="250.051" y2="21.815"/>
+  <line style="stroke-linecap: square; paint-order: fill; stroke-width: 32px; stroke: rgb(255, 255, 255);" x1="477.484" y1="247.226" x2="272.2" y2="454.971"/>
+</svg>

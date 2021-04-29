@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <line id="svg_1" stroke="rgb(255, 255, 255)" stroke-linecap="square" stroke-width="32px" transform="matrix(0.989463, 0.144789, -0.144789, 0.989463, 34.809689, -45.039715)" x1="441.847" x2="211.367" y1="230.677" y2="200.917"/>
+  <line id="svg_2" stroke="rgb(255, 255, 255)" stroke-linecap="square" stroke-width="32px" x1="282.712" x2="61.176" y1="313.62" y2="251.046"/>
+  <line id="svg_3" stroke="rgb(255, 255, 255)" stroke-linecap="square" stroke-width="32px" transform="matrix(1 0 0 1 0 0)" x1="227.78" x2="22.469" y1="44.281" y2="252.043"/>
+  <line id="svg_4" stroke="rgb(255, 255, 255)" stroke-linecap="square" stroke-width="32px" x1="250.173" x2="45.029" y1="477.576" y2="274.241"/>
+  <line id="svg_5" stroke="rgb(255, 255, 255)" stroke-linecap="square" stroke-width="32px" x1="455.365" x2="250.051" y1="225.22" y2="21.815"/>
+  <line id="svg_6" stroke="rgb(255, 255, 255)" stroke-linecap="square" stroke-width="32px" x1="477.484" x2="272.2" y1="247.226" y2="454.971"/>
+ </g>
+</svg>
